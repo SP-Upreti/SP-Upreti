@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **HTML**
-##CSS
-##javascript
-###React js
-###Next js
+**CSS**
+**Javascript**
+**React js**
+**Next JS**
