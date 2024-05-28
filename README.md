@@ -6,7 +6,6 @@ I'm a passionate and dedicated software developer with a focus on web developmen
 - **Languages:** PHP, SQL, JavaScript, HTML, CSS
 - **Frameworks:** ReactJs, NextJs
 - **Databases:** MySQL
-- **Tools:** Git, Docker, Composer
 
 ## 🌱 What I'm Learning:
 - Advanced web technologies and frameworks
