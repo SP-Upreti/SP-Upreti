@@ -13,15 +13,5 @@ I'm a passionate and dedicated software developer with a focus on web developmen
 ## 📫 How to Reach Me:
 - **Email:** [surendraupreti441@gmail.com](mailto:surendraupreti441@gmail.com)
 
-# Project Title
-
-![Build Status](https://github.com/username/repository/actions/workflows/main.yml/badge.svg)
-![Coverage Status](https://coveralls.io/repos/github/username/repository/badge.svg?branch=main)
-![David](https://img.shields.io/david/username/repository.svg)
-![npm](https://img.shields.io/npm/v/package-name.svg)
-![GitHub](https://img.shields.io/github/license/username/repository.svg)
-![GitHub stars](https://img.shields.io/github/stars/username/repository.svg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username.svg?style=social)
-
 
 Feel free to check out my repositories and connect with me. I'm always open to new opportunities and collaborations!
