@@ -1,5 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Surendra Upreti</h1>
+<!-- Fun Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+New+Things" alt="Typing Animation"/>
+</p>
+
 <h3 align="center">💻 Frontend Developer | 🚀 React & Next.js Enthusiast | 🌏 Kathmandu, Nepal</h3>
 
 ---
@@ -60,7 +65,3 @@
 
 ---
 
-<!-- Fun Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+New+Things" alt="Typing Animation"/>
-</p>
