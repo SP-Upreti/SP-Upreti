@@ -56,12 +56,13 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=sp-upreti&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sp-upreti&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
