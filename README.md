@@ -1,12 +1,21 @@
-<img width="5000" height="3000" alt="mobius" src="https://github.com/user-attachments/assets/ca63ed8f-44ab-4e6b-86be-013ef1c67a28" />
+
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+New+Things" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+New+Things" alt="Typing Animation"/>
 </p>
 
 <h3 align="center">💻 Frontend Developer | 🚀 React & Next.js Enthusiast | 🌏 Kathmandu, Nepal</h3>
 
+---
+<p align="center">
+<img width="50%"  src="https://github.com/user-attachments/assets/243924a9-6e8c-4e69-a4a6-58ffa00b5053" />
+</p>
+
+---
+<p align="center">
+ <img width="50%"  alt="angry-cat (1)" src="https://github.com/user-attachments/assets/8dad4ab7-a3b2-4087-9df6-4cc09f553807" />
+</p>
 ---
 
 ###
@@ -17,8 +26,6 @@
 </picture>
 
 ---
-
-<!-- Profile Views & Trophy -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sp-upreti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
