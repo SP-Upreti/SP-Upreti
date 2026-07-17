@@ -1,5 +1,5 @@
+<img width="5000" height="3000" alt="mobius" src="https://github.com/user-attachments/assets/ca63ed8f-44ab-4e6b-86be-013ef1c67a28" />
 
-<img src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif" width="100%" height=""/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+New+Things" alt="Typing Animation"/>
@@ -20,7 +20,7 @@
 
 <!-- Profile Views & Trophy -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sp-upreti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=sp-upreti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
@@ -52,10 +52,3 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
-
-
-
-
-
-
-
