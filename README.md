@@ -12,11 +12,7 @@
 <img width="50%"  src="https://github.com/user-attachments/assets/243924a9-6e8c-4e69-a4a6-58ffa00b5053" />
 </p>
 
----
-<p align="center">
- <img width="50%"  alt="angry-cat (1)" src="https://github.com/user-attachments/assets/8dad4ab7-a3b2-4087-9df6-4cc09f553807" />
-</p>
----
+
 
 ###
 <picture>
