@@ -2,17 +2,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Always+Learning+New+Things" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%26+Next.js;State+Management" alt="Typing Animation"/>
 </p>
-
-<h3 align="center">💻 Frontend Developer | 🚀 React & Next.js Enthusiast | 🌏 Kathmandu, Nepal</h3>
+<h3 align="center">Senior Frontend Developer | React & Next.js Enthusiast | Kathmandu, Nepal </h3>
 
 ---
-<p align="center">
-<img width="50%"  src="https://github.com/user-attachments/assets/243924a9-6e8c-4e69-a4a6-58ffa00b5053" />
-</p>
-
-
 
 ###
 <picture>
@@ -21,14 +15,14 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SP-Upreti/SP-Upreti/output/pacman-contribution-graph.svg">
 </picture>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sp-upreti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+<p >
+  <img src="https://komarev.com/ghpvc/?username=sp-upreti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="20%" />
 </p>
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 >Connect with me:</h3>
+<p >
   <a href="mailto:surendraupreti441@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -46,8 +40,8 @@
 ---
 
 <!-- Skills -->
-<h3 align="center">🛠 Languages & Tools:</h3>
-<p align="center">
+<h3 > Languages & Tools:</h3>
+<p >
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
@@ -55,3 +49,8 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
+
+---
+
+<img width="2160" height="1620" alt="e765e41ea29671c0d6e53af23665502a" src="https://github.com/user-attachments/assets/330c2c79-c9dc-41a9-a289-7fc139fb16ac" />
+
