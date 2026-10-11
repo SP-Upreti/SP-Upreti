@@ -52,5 +52,5 @@
 
 ---
 
-<img width="2160" height="1620" alt="e765e41ea29671c0d6e53af23665502a" src="https://github.com/user-attachments/assets/330c2c79-c9dc-41a9-a289-7fc139fb16ac" />
+<img width="100%" alt="e765e41ea29671c0d6e53af23665502a" src="https://github.com/user-attachments/assets/330c2c79-c9dc-41a9-a289-7fc139fb16ac" />
 
